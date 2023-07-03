@@ -1,0 +1,9 @@
+Since your projects are all taking different approaches and User stories we made 
+ this iteration deliverable rather simple so you can focus as much as possible on
+  customizing and making the app your own! Same deliverables regardless of the
+   project you chose.
+
+Incorporate useEffect() hook in your app to load data from your database
+Set up a Json Server to mock an API for your database. (Add a db.json file to
+ hold your data) 
+Persist the data that you created in your form
